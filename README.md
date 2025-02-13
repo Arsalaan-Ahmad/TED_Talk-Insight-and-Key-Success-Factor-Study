@@ -67,9 +67,9 @@ This project analyzes factors influencing the popularity of TED Talks using stat
 
 ---
 
-##🔮 Future Work & Limitations
+## 🔮 Future Work & Limitations
 
-#Limitations
+### Limitations
 -**Model Performance**: Predictive accuracy was moderate (R² ~0.55), indicating unaccounted factors (e.g., speaker reputation, cultural trends).
 
 -**Interpretation Depth**: Some findings (e.g., titles starting with "3") lacked deeper exploration.
