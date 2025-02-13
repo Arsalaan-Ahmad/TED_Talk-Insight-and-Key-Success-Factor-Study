@@ -62,7 +62,9 @@ This project analyzes factors influencing the popularity of TED Talks using stat
    pip install -r requirements.txt
 
 3.**Run the analysis**:
+
   -Jupyter notebooks are provided for data cleaning, EDA, and model training.
+  
   -Data files should be downloaded from Kaggle and placed in /data.
 
 ---
