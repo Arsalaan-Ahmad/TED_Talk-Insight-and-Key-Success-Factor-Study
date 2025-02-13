@@ -67,27 +67,28 @@ This project analyzes factors influencing the popularity of TED Talks using stat
 
 ---
 
-🔮 Future Work & Limitations
-Limitations
-Model Performance: Predictive accuracy was moderate (R² ~0.55), indicating unaccounted factors (e.g., speaker reputation, cultural trends).
+##🔮 Future Work & Limitations
 
-Interpretation Depth: Some findings (e.g., titles starting with "3") lacked deeper exploration.
+#Limitations
+-**Model Performance**: Predictive accuracy was moderate (R² ~0.55), indicating unaccounted factors (e.g., speaker reputation, cultural trends).
 
-Visualization Readability: Font sizes and figure dimensions could be improved for clarity.
+-**Interpretation Depth**: Some findings (e.g., titles starting with "3") lacked deeper exploration.
 
-Future Enhancements
-Feature Engineering: Incorporate speaker metadata, transcript sentiment trends, or clustering-based topic modeling.
+-**Visualization Readability**: Font sizes and figure dimensions could be improved for clarity.
 
-Advanced Models: Test neural networks or NLP transformers for better prediction.
+#Future Enhancements
+-**Feature Engineering**: Incorporate speaker metadata, transcript sentiment trends, or clustering-based topic modeling.
 
-Qualitative Analysis: Survey audience preferences to validate quantitative insights.
+-**Advanced Models**: Test neural networks or NLP transformers for better prediction.
 
-📚 References
-Dataset: TED Talks Dataset on Kaggle
+-**Qualitative Analysis**: Survey audience preferences to validate quantitative insights.
 
-Tools: scikit-learn, TextBlob, textstat
+##📚 References
+-**Dataset**: TED Talks Dataset on Kaggle
 
-Full references in Project Report
+-**Tools**: scikit-learn, TextBlob, textstat
+
+-Full references in Project Report
 
 Contributors: [Arsalaan Ahmad]
 License: MIT
