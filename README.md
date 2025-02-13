@@ -83,7 +83,8 @@ This project analyzes factors influencing the popularity of TED Talks using stat
 
 -**Qualitative Analysis**: Survey audience preferences to validate quantitative insights.
 
-##📚 References
+### 📚 References
+
 -**Dataset**: TED Talks Dataset on Kaggle
 
 -**Tools**: scikit-learn, TextBlob, textstat
