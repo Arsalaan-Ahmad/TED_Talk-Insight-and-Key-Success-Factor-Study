@@ -9,7 +9,7 @@ This project analyzes factors influencing the popularity of TED Talks using stat
 
 ## 📌 Project Overview
 - **Objective**: Identify key features (e.g., title style, speech pace, topic) that drive TED Talk popularity.
-- **Dataset**: [TED Talks Dataset](https://www.kaggle.com/datasets/rounakbanik/ted-talks)with metadata, ratings, and transcripts (up to September 2017).
+- **Dataset**: [TED Talks Dataset](https://www.kaggle.com/datasets/rounakbanik/ted-talks) with metadata, ratings, and transcripts (up to September 2017).
 - **Popularity Metric**: Normalized views per day (`views / days_since_release`).
 - **Tools**: Python, scikit-learn, pandas, TextBlob, textstat.
 
