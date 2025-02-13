@@ -91,8 +91,10 @@ This project analyzes factors influencing the popularity of TED Talks using stat
 
 -Full references in Project Report
 
-Contributors: [Arsalaan Ahmad]
-License: MIT
-Contact: arsalaaninbox@gmail.com
+**Contributors**: [Arsalaan Ahmad]
+
+**License: MIT**
+
+**Contact**: arsalaaninbox@gmail.com
    
 
